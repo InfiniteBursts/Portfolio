@@ -1,0 +1,55 @@
+	body{
+			background-image: url("achtergrond.jpg");
+			background-repeat: no-repeat;
+			width: 100%;
+			height: 100%;
+			background-size:cover
+		}
+
+ul{
+	border: solid #0CFEF6;
+	width: 80%;
+	height: 35px;
+	margin: auto;
+	border-radius: 30px;
+	background-color: purple;
+	opacity: 0.7;
+	list-style-type: none;
+}
+
+
+button{
+	background-color: #0CFEF6;
+	border-radius: 30px;
+	border: solid #FE01DC;
+	float: left;
+	width: 80px;
+	height: 35px;
+	font-weight: bold;
+	align-self: center;
+	margin-left: 200px;
+}
+
+a{
+	text-decoration: none;
+	color: #FE01DC;
+	border-radius: 30px;
+}
+
+
+#homepagina{
+text-align: center;
+color: #17FEFE;
+}
+
+#gif{
+		  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 100px;
+}
+
+body {
+    overflow-x:hidden;
+}
